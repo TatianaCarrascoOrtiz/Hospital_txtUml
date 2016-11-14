@@ -1,0 +1,260 @@
+package hospital;
+
+class Hospital
+{
+	int code;
+	String name;
+	String phone;
+	
+	public String get_phone()
+	{
+		return phone;
+	}
+}
+
+class Address
+{
+	String main_street;
+	String number;
+	int floor;
+	String Code_Zip;
+	String city;
+	String country;
+	
+	public String get_Address() {
+		return main_street;
+	}
+	public void set_Address(String main_street,String number, int floor,String Code_Zip, String city, String country) {
+		
+		this.main_street = main_street;
+		this.number = number;
+		this.floor = floor;
+		this.Code_Zip = Code_Zip;
+		this.city = city;
+		this.country = country;
+		
+	}
+	
+
+}
+association Hospital_has_Address
+{
+	1 Hospital hospital;
+	1 Address address;
+}
+
+association Person_has_Address
+{
+	1 Person person;
+	1 Address address;
+}
+
+class Person
+{
+	int id;
+	String names;
+	String lastnames;
+	String phone;
+	String date_birth;
+	String gender;
+	
+	public int calculate_age()
+	{
+		//calcule of age
+		return  3;
+	}
+	
+}
+
+association Hospital_has_Person
+{
+	1 Hospital hospital;
+	* Person person;
+}
+
+
+class Patient extends Person
+{
+	String date_admission;
+	String date_discharger;
+	
+	public void register_admission(String date_admission)
+	{
+	}
+	public String register_discharger()
+	{
+		return date_discharger;
+	}
+	
+	
+}
+
+class Doctor extends Person
+{
+	String date_admission;
+	String specialization;
+	String work_days;
+	String time_start;
+	String time_end;
+	
+	public void operate()
+	{}
+	public void visit_patient()
+	{}
+	public void attends()
+	{}
+}
+
+class Room
+{
+	int number;
+	int Floor;
+	
+	public void clean_room()
+	{}
+
+}
+
+composition HospitalhasRoom
+{
+	1 container  Hospital hospital;
+	* Room room;
+}
+
+class Hospitalization_room extends Room
+{
+	int number_room;
+	int number_strecher;
+	
+	public void register_admission_room()
+	{}
+}
+
+class Doctor_room extends Room
+{
+	boolean equipment_examination;
+	
+}
+
+
+class Surgery_room extends Room
+{
+	boolean equipment_breathing;
+	boolean equipment_heart;
+	
+}
+
+class Operation
+{
+	String date;
+	String time;
+	
+	public void organize_surgery(String patient, String doctor, String date, String time)
+	{}
+	
+}
+
+association Operation_has_SurgeryRoom
+{
+	1 Surgery_room surgery_room;
+	* Operation operation;
+}
+
+
+association Patient_has_HospitalizationRoom
+{
+	1 Hospitalization_room hospitalization_room;
+	* Patient patient;
+}
+
+class Illiness
+{
+	String name;
+	String category;
+}
+
+class Medication
+{
+	String name;
+	String dosification;
+	String ammount;
+	
+}
+
+
+class Appointment
+{
+	String date;
+	String time;
+	
+	public void set_diagnostic()
+	{
+	}
+	public void set_prescription()
+	{}
+}
+
+
+composition AppointmentcontaintDoctor
+{
+	container Appointment appointment;
+	* Doctor doctor;
+}
+
+composition AppointmentcontaintPatient
+{
+	container Appointment appointment;
+	1 Patient patient;
+}
+
+composition AppointmentcontaintMedication
+{
+	container Appointment appointment;
+	* Medication medication;
+}
+
+composition AppointmentcontaintIlliness
+{
+	container Appointment appointment;
+	* Illiness illiness;
+}
+
+composition AppointmentcontaintRoom
+{
+	container Appointment appointment;
+	* Room room;
+}
+
+//
+//association Doctor_has_DoctorRoom
+//{
+//	1 Doctor_room doctor_room;
+//	1 Doctor doctor;
+//}
+//
+
+
+
+
+
+//association Patient_has_Operation
+//{
+//	* Operation operation;
+//	1 Patient patient;
+//}
+
+
+//association Patient_has_Illinees
+//{
+//	1..* Illiness illiness;
+//	1 Patient patient;
+//}
+
+//association Doctor_has_Operation
+//{
+//	1..* Doctor doctor;
+//	* Operation operation;
+//}
+
+
+

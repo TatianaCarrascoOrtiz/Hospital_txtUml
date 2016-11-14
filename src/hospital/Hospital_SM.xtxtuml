@@ -1,0 +1,175 @@
+package hospital;
+
+signal Hospital_sig;
+signal New_Hospital_sig;
+signal New_Assignation_sig;
+signal Need_Surgery_sig;
+signal Need_Hospitalization_sig;
+signal Surgery_sig;
+signal Hospitalization_Surgery_sig;
+
+class Hospital_SM
+{
+	initial Init;
+	state Arrived_Patient_st;
+	choice State_Hospital_ch;
+	choice Assiged_Room_ch;
+	choice Need_Surgery_ch;
+	choice Need_Hospitalization_ch;
+	state Registration_patient_st;
+	state Find_Hospital_st;
+	state Consultation_st;
+	state Hospitalization_st;
+	state Surgery_st;
+	state Discharged_st;
+	state Have_surgery_st;
+	int Hospital_guard;
+	int Type_Appointment;
+	int Need_Surgery;
+	int Need_Hospitalization;
+	
+	transition Initialisation_tr
+	{
+		from Init;
+		to Arrived_Patient_st;
+	}
+	
+	transition Hospital_tr
+	{
+		from Arrived_Patient_st;
+		to State_Hospital_ch;
+		trigger Hospital_sig;
+	}
+	
+	transition Hospital_Open_tr
+	{
+		from State_Hospital_ch;
+		to Registration_patient_st;
+		guard(Hospital_guard==1);
+		
+	}
+	transition Hospital_Close_tr
+	{
+		from State_Hospital_ch;
+		to Find_Hospital_st;
+		guard(Hospital_guard==0);
+		
+	}
+	
+	public int set_Hospital_guard(int Hospital_guard)
+	{
+		return this.Hospital_guard=Hospital_guard;
+		
+	}
+	
+	transition New_Hospital_tr
+	{
+		from Find_Hospital_st;
+		to Arrived_Patient_st;
+		trigger New_Hospital_sig;
+	}
+	
+	transition Assignation_Appointment_tr
+	{
+		from Registration_patient_st;
+		to Assiged_Room_ch;
+		trigger New_Assignation_sig;
+	}
+	
+	transition Appointment_Consultation_tr
+	{
+		from Assiged_Room_ch;
+		to Consultation_st;
+		guard (Type_Appointment==1);
+	}
+	
+	transition Appointment_Hospitalization_tr
+	{
+		from Assiged_Room_ch;
+		to Hospitalization_st;
+		guard (Type_Appointment==2);
+	}
+	
+
+	transition Appointment_Surgery_tr
+	{
+		from Assiged_Room_ch;
+		to Surgery_st;
+		guard (Type_Appointment==3);
+	}
+	
+	public void set_Type_Appointment(int Type_Appointment)
+	{
+		this.Type_Appointment=Type_Appointment;
+		
+	}
+	
+	transition Have_Surgery_tr
+	{
+		from Surgery_st;
+		to Have_surgery_st;
+		trigger Surgery_sig;
+	}
+	
+	transition Hospitalization_Surgery_tr
+	{
+		from Have_surgery_st;
+		to Hospitalization_st;
+		trigger Hospitalization_Surgery_sig;
+	}
+	
+	transition Need_Surgery_tr
+	{
+		from Hospitalization_st;
+		to Need_Surgery_ch;
+		trigger Need_Surgery_sig;
+	}
+	
+	transition No_Need_Surgery_tr
+	{
+		from Need_Surgery_ch;
+		to Discharged_st;
+		guard(Need_Surgery==0);
+	}
+	
+	transition Yes_Need_Surgery_tr
+	{
+		from Need_Surgery_ch;
+		to Surgery_st;
+		guard(Need_Surgery==1);
+	}
+	
+	public void set_Need_Surgery(int Need_Surgery)
+	{
+		this.Need_Surgery=Need_Surgery;
+		
+	}
+	
+	transition Need_Hospitalization_tr
+	{
+		from Consultation_st;
+		to Need_Hospitalization_ch;
+		trigger Need_Hospitalization_sig;
+	}
+	
+	transition No_Need_Hospitalization_tr
+	{
+		from Need_Hospitalization_ch;
+		to Discharged_st;
+		guard(Need_Hospitalization==0);
+	}
+	
+	transition Yes_Need_Hospitalization_tr
+	{
+		from Need_Hospitalization_ch;
+		to Hospitalization_st;
+		guard(Need_Hospitalization==1);
+	}
+	
+	public void set_Need_Hospitalization(int Need_Hospitalization)
+	{
+		this.Need_Hospitalization=Need_Hospitalization;
+		
+	}
+
+}

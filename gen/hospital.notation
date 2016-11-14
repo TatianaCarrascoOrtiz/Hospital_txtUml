@@ -1,0 +1,1388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/viewpoints/policy/style" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML">
+  <notation:Diagram xmi:id="_4neLUJnjEea_msgb2Rh3jw" type="PapyrusUMLClassDiagram" name="diagram.Diagram_Class" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_4sSZ4JnjEea_msgb2Rh3jw" type="2008">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4sTA8JnjEea_msgb2Rh3jw" type="5029"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4sTA8ZnjEea_msgb2Rh3jw" type="8510">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4sToAJnjEea_msgb2Rh3jw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4sToAZnjEea_msgb2Rh3jw" type="7017">
+        <children xmi:type="notation:Shape" xmi:id="_48Z5gJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4SGYQJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_48Z5gZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_485owJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4SG_UJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_485owZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4sToApnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4sToA5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4sToBJnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4sToBZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4sToBpnjEea_msgb2Rh3jw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_49SDQJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4SG_UZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_49SDQZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_49rE0JnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4SG_UpnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_49rE0ZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4sToB5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4sToCJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4sToCZnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4sToCpnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4sToC5njEea_msgb2Rh3jw" type="7019">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4sToDJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4sToDZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4sToDpnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4sToD5njEea_msgb2Rh3jw"/>
+      </children>
+      <element xmi:type="uml:Class" href="hospital.uml#_4R_DgJnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4sSZ4ZnjEea_msgb2Rh3jw" x="1360" y="48" width="160" height="140"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4siRgJnjEea_msgb2Rh3jw" type="2008">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4siRgpnjEea_msgb2Rh3jw" type="5029"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4siRg5njEea_msgb2Rh3jw" type="8510">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4siRhJnjEea_msgb2Rh3jw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4si4kJnjEea_msgb2Rh3jw" type="7017">
+        <children xmi:type="notation:Shape" xmi:id="_4-ZdkJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4SqY8JnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4-ZdkZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_4-yfIJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4SqY8ZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4-yfIZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4si4kZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4si4kpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4si4k5njEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4si4lJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4si4lZnjEea_msgb2Rh3jw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_4_LgsJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4SqY8pnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_4_MHwJnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4si4lpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4si4l5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4si4mJnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4si4mZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4si4mpnjEea_msgb2Rh3jw" type="7019">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4si4m5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4si4nJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4si4nZnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4si4npnjEea_msgb2Rh3jw"/>
+      </children>
+      <element xmi:type="uml:Class" href="hospital.uml#_4Spx4JnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4siRgZnjEea_msgb2Rh3jw" x="480" y="1854" width="160" height="126"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4sxiEJnjEea_msgb2Rh3jw" type="2008">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4sxiEpnjEea_msgb2Rh3jw" type="5029"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4sxiE5njEea_msgb2Rh3jw" type="8510">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4syJIJnjEea_msgb2Rh3jw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4syJIZnjEea_msgb2Rh3jw" type="7017">
+        <children xmi:type="notation:Shape" xmi:id="_5AE4kJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4VEMwJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5AE4kZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5AcsAJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4VEMwZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5AcsAZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4syJIpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4syJI5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4syJJJnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4syJJZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4syJJpnjEea_msgb2Rh3jw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_5A0fcJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4VEMwpnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5A0fcZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5BLEwJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4VEzwJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5BLEwZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5BkGUJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4VEzwZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5BkGUZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4syJJ5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4syJKJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4syJKZnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4syJKpnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4syJK5njEea_msgb2Rh3jw" type="7019">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4syJLJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4syJLZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4syJLpnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4syJL5njEea_msgb2Rh3jw"/>
+      </children>
+      <element xmi:type="uml:Class" href="hospital.uml#_4VEMsJnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4sxiEZnjEea_msgb2Rh3jw" x="900" y="1392" width="180" height="154"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4tGSMJnjEea_msgb2Rh3jw" type="2008">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4tGSMpnjEea_msgb2Rh3jw" type="5029"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4tGSM5njEea_msgb2Rh3jw" type="8510">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4tG5QJnjEea_msgb2Rh3jw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4tG5QZnjEea_msgb2Rh3jw" type="7017">
+        <children xmi:type="notation:Shape" xmi:id="_5CMYcJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4VcAIJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5CMYcZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5Cf6cJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4VcAIZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5Cf6cZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4tG5QpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4tG5Q5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4tG5RJnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4tG5RZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4tG5RpnjEea_msgb2Rh3jw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_5CzccJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4VcAIpnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5CzccZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4tG5R5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4tG5SJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4tG5SZnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4tG5SpnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4tG5S5njEea_msgb2Rh3jw" type="7019">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4tG5TJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4tG5TZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4tG5TpnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4tG5T5njEea_msgb2Rh3jw"/>
+      </children>
+      <element xmi:type="uml:Class" href="hospital.uml#_4VbZEJnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4tGSMZnjEea_msgb2Rh3jw" x="1780" y="510" width="200" height="126"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4tkMQJnjEea_msgb2Rh3jw" type="2008">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4tkMQpnjEea_msgb2Rh3jw" type="5029"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4tkMQ5njEea_msgb2Rh3jw" type="8510">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4tkMRJnjEea_msgb2Rh3jw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4tkMRZnjEea_msgb2Rh3jw" type="7017">
+        <children xmi:type="notation:Shape" xmi:id="_5DWPAJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4SmHgZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5DWPAZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4tkMRpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4tkMR5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4tkMSJnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4tkMSZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4tkMSpnjEea_msgb2Rh3jw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_5Ds0UJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4SmHgpnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5Ds0UZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4tkMS5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4tkMTJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4tkMTZnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4tkMTpnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4tkMT5njEea_msgb2Rh3jw" type="7019">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4tkMUJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4tkMUZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4tkMUpnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4tkMU5njEea_msgb2Rh3jw"/>
+      </children>
+      <element xmi:type="uml:Class" href="hospital.uml#_4SmHgJnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4tkMQZnjEea_msgb2Rh3jw" x="1340" y="510" width="200" height="112"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4uDUcJnjEea_msgb2Rh3jw" type="2008">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4uD7gJnjEea_msgb2Rh3jw" type="5029"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4uD7gZnjEea_msgb2Rh3jw" type="8510">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4uD7gpnjEea_msgb2Rh3jw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4uD7g5njEea_msgb2Rh3jw" type="7017">
+        <children xmi:type="notation:Shape" xmi:id="_5EWUkJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4U4mhJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5EWUkZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5ErrwJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4U5NkJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5ErrwZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5FC4IJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4U5NkZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5FC4IZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4uD7hJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4uD7hZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4uD7hpnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4uD7h5njEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4uEikJnjEea_msgb2Rh3jw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_5FdH0JnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4U5NkpnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5FdH0ZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4uEikZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4uEikpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4uEik5njEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4uEilJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4uEilZnjEea_msgb2Rh3jw" type="7019">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4uEilpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4uEil5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4uEimJnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4uEimZnjEea_msgb2Rh3jw"/>
+      </children>
+      <element xmi:type="uml:Class" href="hospital.uml#_4U4mgJnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4uDUcZnjEea_msgb2Rh3jw" x="1360" y="1392" height="140"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4unVIJnjEea_msgb2Rh3jw" type="2008">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4unVIpnjEea_msgb2Rh3jw" type="5029"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4unVI5njEea_msgb2Rh3jw" type="8510">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4unVJJnjEea_msgb2Rh3jw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4unVJZnjEea_msgb2Rh3jw" type="7017">
+        <children xmi:type="notation:Shape" xmi:id="_5GJrYJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4Vg4pJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5GJrYZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5GgQsJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4Vg4pZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5GgQsZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5G1A0JnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4Vg4ppnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5G1A0ZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5HMNMJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4VhfsJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5HMNMZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5HjZkJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4VhfsZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5HjZkZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5H5X0JnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4VhfspnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5H5X0ZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4unVJpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4unVJ5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4unVKJnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4unVKZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4un8MJnjEea_msgb2Rh3jw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_5IQkMJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4Vhfs5njEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5IQkMZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5InJgJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4VhftZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5InJgZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4un8MZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4un8MpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4un8M5njEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4un8NJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4un8NZnjEea_msgb2Rh3jw" type="7019">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4un8NpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4un8N5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4un8OJnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4un8OZnjEea_msgb2Rh3jw"/>
+      </children>
+      <element xmi:type="uml:Class" href="hospital.uml#_4Vg4oJnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4unVIZnjEea_msgb2Rh3jw" x="460" y="468" width="180" height="210"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4vGdUJnjEea_msgb2Rh3jw" type="2008">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4vGdUpnjEea_msgb2Rh3jw" type="5029"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4vGdU5njEea_msgb2Rh3jw" type="8510">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4vGdVJnjEea_msgb2Rh3jw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4vGdVZnjEea_msgb2Rh3jw" type="7017">
+        <children xmi:type="notation:Shape" xmi:id="_5JM_YJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4QvtYJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5JM_YZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5JiWkJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4QwUcJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5JiWkZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4vGdVpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4vGdV5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4vGdWJnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4vGdWZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4vGdWpnjEea_msgb2Rh3jw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_5J3twJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4QxikJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5J3twZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5KLPwJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4RSf8JnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5KLPwZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4vGdW5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4vGdXJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4vGdXZnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4vGdXpnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4vGdX5njEea_msgb2Rh3jw" type="7019">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4vGdYJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4vGdYZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4vGdYpnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4vGdY5njEea_msgb2Rh3jw"/>
+      </children>
+      <element xmi:type="uml:Class" href="hospital.uml#_4QvGUJnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4vGdUZnjEea_msgb2Rh3jw" x="900" y="496" width="200" height="140"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4vrFEJnjEea_msgb2Rh3jw" type="2008">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4vrFEpnjEea_msgb2Rh3jw" type="5029"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4vrFE5njEea_msgb2Rh3jw" type="8510">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4vrFFJnjEea_msgb2Rh3jw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4vrFFZnjEea_msgb2Rh3jw" type="7017">
+        <children xmi:type="notation:Shape" xmi:id="_5Ks0MJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4TBlUZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5Ks0MZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5LFOsJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4TCMYJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5LFOsZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5Lal4JnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4TCMYZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5Lal4ZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5LxyQJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4TCMYpnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5LxyQZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5MI-oJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4TCMY5njEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5MI-oZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4vrFFpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4vrFF5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4vrFGJnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4vrFGZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4vrFGpnjEea_msgb2Rh3jw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_5Mfj8JnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4TCMZJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5Mfj8ZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5M2wUJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4TCzcJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5M2wUZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5NMHgJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4TCzcZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5NMHgZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5NgQkJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4TCzcpnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5NgQkZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4vrFG5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4vrFHJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4vrFHZnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4vrFHpnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4vrFH5njEea_msgb2Rh3jw" type="7019">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4vrFIJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4vrFIZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4vrFIpnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4vrFI5njEea_msgb2Rh3jw"/>
+      </children>
+      <element xmi:type="uml:Class" href="hospital.uml#_4TBlUJnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4vrFEZnjEea_msgb2Rh3jw" x="1340" y="916" width="180" height="210"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4wQ68JnjEea_msgb2Rh3jw" type="2008">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4wQ68pnjEea_msgb2Rh3jw" type="5029"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4wQ685njEea_msgb2Rh3jw" type="8510">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4wQ69JnjEea_msgb2Rh3jw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4wQ69ZnjEea_msgb2Rh3jw" type="7017">
+        <children xmi:type="notation:Shape" xmi:id="_5OFfYJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4SgA4JnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5OFfYZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5OcEsJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4SgA4ZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5OcEsZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4wQ69pnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4wQ695njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4wQ6-JnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4wQ6-ZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4wQ6-pnjEea_msgb2Rh3jw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_5OyC8JnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4SgA4pnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5OyC8ZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5PFk8JnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4ShPA5njEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5PFk8ZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4wQ6-5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4wQ6_JnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4wQ6_ZnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4wQ6_pnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4wQ6_5njEea_msgb2Rh3jw" type="7019">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4wQ7AJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4wQ7AZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4wQ7ApnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4wQ7A5njEea_msgb2Rh3jw"/>
+      </children>
+      <element xmi:type="uml:Class" href="hospital.uml#_4SfZ0JnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4wQ68ZnjEea_msgb2Rh3jw" x="1780" y="944" width="200" height="140"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4wx4UJnjEea_msgb2Rh3jw" type="2008">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4wx4UpnjEea_msgb2Rh3jw" type="5029"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4wx4U5njEea_msgb2Rh3jw" type="8510">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4wx4VJnjEea_msgb2Rh3jw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4wyfYJnjEea_msgb2Rh3jw" type="7017">
+        <children xmi:type="notation:Shape" xmi:id="_5PueIJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4VlxJ5njEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5PueIZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5QFqgJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4VlxKJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5QFqgZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5QaaoJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4VlxKZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5QaaoZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4wyfYZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4wyfYpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4wyfY5njEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4wyfZJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4wyfZZnjEea_msgb2Rh3jw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_5QvKwJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4VlxKpnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5QvKwZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5RFJAJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4VmYMJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5RFJAZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4wyfZpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4wyfZ5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4wyfaJnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4wyfaZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4wyfapnjEea_msgb2Rh3jw" type="7019">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4wyfa5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4wyfbJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4wyfbZnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4wyfbpnjEea_msgb2Rh3jw"/>
+      </children>
+      <element xmi:type="uml:Class" href="hospital.uml#_4VlKEJnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4wx4UZnjEea_msgb2Rh3jw" x="480" y="48" width="160" height="154"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4xZjYJnjEea_msgb2Rh3jw" type="2008">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4xaKcJnjEea_msgb2Rh3jw" type="5029"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4xaKcZnjEea_msgb2Rh3jw" type="8510">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4xaKcpnjEea_msgb2Rh3jw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4xaKc5njEea_msgb2Rh3jw" type="7017">
+        <children xmi:type="notation:Shape" xmi:id="_5RzhwJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4TNykZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5RzhwZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5SLVMJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4TNykpnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5SLVMZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4xaKdJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4xaKdZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4xaKdpnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4xaKd5njEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4xaKeJnjEea_msgb2Rh3jw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_5SjvsJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4TNyk5njEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5SjvsZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5S_0kJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4TNylZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5S_0kZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5TY2IJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4TOZoZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5TY2IZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4xaKeZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4xaKepnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4xaKe5njEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4xaKfJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4xaKfZnjEea_msgb2Rh3jw" type="7019">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4xaKfpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4xaKf5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4xaKgJnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4xaKgZnjEea_msgb2Rh3jw"/>
+      </children>
+      <element xmi:type="uml:Class" href="hospital.uml#_4TNykJnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4xZjYZnjEea_msgb2Rh3jw" x="460" y="1392" width="200" height="154"/>
+    </children>
+    <children xmi:type="notation:Shape" xmi:id="_4yDqsJnjEea_msgb2Rh3jw" type="2008">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4yDqspnjEea_msgb2Rh3jw" type="5029"/>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4yDqs5njEea_msgb2Rh3jw" type="8510">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4yDqtJnjEea_msgb2Rh3jw" y="5"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4yERwJnjEea_msgb2Rh3jw" type="7017">
+        <children xmi:type="notation:Shape" xmi:id="_5UDkgJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4Ts6wJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5UDkgZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5UYUoJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4Ts6wZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5UYUoZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5Ur2oJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4Ts6wpnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5Ur2oZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5VDqEJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4Ts6w5njEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5VDqEZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5VaPYJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4Ts6xJnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5VaPYZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5VuYcJnjEea_msgb2Rh3jw" type="3012">
+          <element xmi:type="uml:Property" href="hospital.uml#_4Tth0JnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5VuYcZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4yERwZnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4yERwpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4yERw5njEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4yERxJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4yERxZnjEea_msgb2Rh3jw" type="7018">
+        <children xmi:type="notation:Shape" xmi:id="_5WChgJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4Tth0ZnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5WChgZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5WWDgJnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4Tth05njEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5WWDgZnjEea_msgb2Rh3jw"/>
+        </children>
+        <children xmi:type="notation:Shape" xmi:id="_5WtP4JnjEea_msgb2Rh3jw" type="3013">
+          <element xmi:type="uml:Operation" href="hospital.uml#_4TuI5pnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_5WtP4ZnjEea_msgb2Rh3jw"/>
+        </children>
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4yERxpnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4yERx5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4yERyJnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4yERyZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:BasicCompartment" xmi:id="_4yERypnjEea_msgb2Rh3jw" type="7019">
+        <styles xmi:type="notation:TitleStyle" xmi:id="_4yERy5njEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:SortingStyle" xmi:id="_4yERzJnjEea_msgb2Rh3jw"/>
+        <styles xmi:type="notation:FilteringStyle" xmi:id="_4yERzZnjEea_msgb2Rh3jw"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4yERzpnjEea_msgb2Rh3jw"/>
+      </children>
+      <element xmi:type="uml:Class" href="hospital.uml#_4TsTsJnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_4yDqsZnjEea_msgb2Rh3jw" x="20" y="20" width="200" height="210"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_4neLUZnjEea_msgb2Rh3jw" name="diagram_compatibility_version" stringValue="1.1.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_4neLUpnjEea_msgb2Rh3jw"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_4neLU5njEea_msgb2Rh3jw">
+      <owner xmi:type="uml:Model" href="hospital.uml#_4ORoMJnjEea_msgb2Rh3jw"/>
+    </styles>
+    <element xmi:type="uml:Model" href="hospital.uml#_4ORoMJnjEea_msgb2Rh3jw"/>
+    <edges xmi:type="notation:Connector" xmi:id="_4zFlcJnjEea_msgb2Rh3jw" type="4001" source="_4sxiEJnjEea_msgb2Rh3jw" target="_4vrFEJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4zGMgJnjEea_msgb2Rh3jw" visible="false" type="6001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4zGMgZnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4zGMgpnjEea_msgb2Rh3jw" type="6002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4zGMg5njEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4zGMhJnjEea_msgb2Rh3jw" visible="false" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4zGMhZnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4zGMhpnjEea_msgb2Rh3jw" visible="false" type="6005">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4zGMh5njEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4zGzkJnjEea_msgb2Rh3jw" type="6033">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4zGzkZnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4zGzkpnjEea_msgb2Rh3jw" type="6034">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4zGzk5njEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_4zFlcZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Association" href="hospital.uml#_4UoH0JnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4zFlcpnjEea_msgb2Rh3jw" points="[0, 0, -280, 280]$[0, -280, -280, 0]$[280, -280, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5e-bEpnjEea_msgb2Rh3jw" id="(0.8888888955116272, 0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5e-bE5njEea_msgb2Rh3jw" id="(0.0, 0.9333333373069763)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_4zpmIJnjEea_msgb2Rh3jw" type="4001" source="_4wx4UJnjEea_msgb2Rh3jw" target="_4sSZ4JnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_4zqNMJnjEea_msgb2Rh3jw" visible="false" type="6001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4zqNMZnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4zqNMpnjEea_msgb2Rh3jw" type="6002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4zqNM5njEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4zqNNJnjEea_msgb2Rh3jw" visible="false" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4zqNNZnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4zqNNpnjEea_msgb2Rh3jw" visible="false" type="6005">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4zqNN5njEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4zqNOJnjEea_msgb2Rh3jw" type="6033">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4zqNOZnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_4zqNOpnjEea_msgb2Rh3jw" type="6034">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_4zqNO5njEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_4zpmIZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Association" href="hospital.uml#_4TccEJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4zpmIpnjEea_msgb2Rh3jw" points="[0, 0, -720, 0]$[720, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5d6EEZnjEea_msgb2Rh3jw" id="(1.0, 0.1818181872367859)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5d6EEpnjEea_msgb2Rh3jw" id="(0.0, 0.20000000298023224)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_40MYsJnjEea_msgb2Rh3jw" type="4001" source="_4sxiEJnjEea_msgb2Rh3jw" target="_4xZjYJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_40MYs5njEea_msgb2Rh3jw" visible="false" type="6001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_40MYtJnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_40MYtZnjEea_msgb2Rh3jw" type="6002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_40MYtpnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_40MYt5njEea_msgb2Rh3jw" visible="false" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_40MYuJnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_40MYuZnjEea_msgb2Rh3jw" visible="false" type="6005">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_40MYupnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_40M_wJnjEea_msgb2Rh3jw" type="6033">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_40M_wZnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_40M_wpnjEea_msgb2Rh3jw" type="6034">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_40M_w5njEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_40MYsZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Association" href="hospital.uml#_4UwDoJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_40MYspnjEea_msgb2Rh3jw" points="[0, 0, 240, 0]$[-240, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5feKUJnjEea_msgb2Rh3jw" id="(0.0, 0.4545454680919647)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5feKUZnjEea_msgb2Rh3jw" id="(1.0, 0.4545454680919647)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_40wZYJnjEea_msgb2Rh3jw" type="4001" source="_4vGdUJnjEea_msgb2Rh3jw" target="_4xZjYJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_40wZY5njEea_msgb2Rh3jw" visible="false" type="6001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_40wZZJnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_40xAcJnjEea_msgb2Rh3jw" type="6002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_40xAcZnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_40xAcpnjEea_msgb2Rh3jw" visible="false" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_40xAc5njEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_40xAdJnjEea_msgb2Rh3jw" visible="false" type="6005">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_40xAdZnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_40xAdpnjEea_msgb2Rh3jw" type="6033">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_40xAd5njEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_40xAeJnjEea_msgb2Rh3jw" type="6034">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_40xAeZnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_40wZYZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Association" href="hospital.uml#_4VWgkJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_40wZYpnjEea_msgb2Rh3jw" points="[0, 0, 280, -756]$[0, 672, 280, -84]$[-280, 672, 0, -84]$[-280, 756, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5c-3AJnjEea_msgb2Rh3jw" id="(0.10000000149011612, 1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5c-3AZnjEea_msgb2Rh3jw" id="(0.8999999761581421, 0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_41UaEJnjEea_msgb2Rh3jw" type="4001" source="_4unVIJnjEea_msgb2Rh3jw" target="_4yDqsJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_41UaE5njEea_msgb2Rh3jw" visible="false" type="6001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_41UaFJnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_41VBIJnjEea_msgb2Rh3jw" type="6002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_41VBIZnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_41VBIpnjEea_msgb2Rh3jw" visible="false" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_41VBI5njEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_41VBJJnjEea_msgb2Rh3jw" visible="false" type="6005">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_41VBJZnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_41VBJpnjEea_msgb2Rh3jw" type="6033">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_41VBJ5njEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_41VBKJnjEea_msgb2Rh3jw" type="6034">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_41VBKZnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_41UaEZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Association" href="hospital.uml#_4VtF4JnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_41UaEpnjEea_msgb2Rh3jw" points="[0, 0, 260, 252]$[0, -252, 260, 0]$[-260, -252, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5ec2oJnjEea_msgb2Rh3jw" id="(0.1111111119389534, 0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5eddsJnjEea_msgb2Rh3jw" id="(1.0, 0.9333333373069763)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_414awJnjEea_msgb2Rh3jw" type="4001" source="_4sxiEJnjEea_msgb2Rh3jw" target="_4sSZ4JnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_415B0JnjEea_msgb2Rh3jw" visible="false" type="6001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_415B0ZnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_415B0pnjEea_msgb2Rh3jw" type="6002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_415B05njEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_415B1JnjEea_msgb2Rh3jw" visible="false" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_415B1ZnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_415B1pnjEea_msgb2Rh3jw" visible="false" type="6005">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_415B15njEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_415B2JnjEea_msgb2Rh3jw" type="6033">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_415B2ZnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_415B2pnjEea_msgb2Rh3jw" type="6034">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_415B25njEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_414awZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Association" href="hospital.uml#_4T0PgJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_414awpnjEea_msgb2Rh3jw" points="[0, 0, -280, 1232]$[140, 0, -140, 1232]$[140, -1232, -140, 0]$[280, -1232, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5d5dAJnjEea_msgb2Rh3jw" id="(1.0, 0.09090909361839294)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5d6EEJnjEea_msgb2Rh3jw" id="(0.0, 0.8999999761581421)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_42dCgJnjEea_msgb2Rh3jw" type="4001" source="_4tGSMJnjEea_msgb2Rh3jw" target="_4wQ68JnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_42dCg5njEea_msgb2Rh3jw" visible="false" type="6001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_42dChJnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_42dChZnjEea_msgb2Rh3jw" type="6002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_42dChpnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_42dpkJnjEea_msgb2Rh3jw" visible="false" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_42dpkZnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_42dpkpnjEea_msgb2Rh3jw" visible="false" type="6005">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_42dpk5njEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_42dplJnjEea_msgb2Rh3jw" type="6033">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_42dplZnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_42dplpnjEea_msgb2Rh3jw" type="6034">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_42dpl5njEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_42dCgZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Association" href="hospital.uml#_4TmNEJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_42dCgpnjEea_msgb2Rh3jw" points="[0, 0, 0, -308]$[0, 308, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5cCb0JnjEea_msgb2Rh3jw" id="(0.699999988079071, 1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5cCb0ZnjEea_msgb2Rh3jw" id="(0.699999988079071, 0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_42_OAJnjEea_msgb2Rh3jw" type="4001" source="_4wx4UJnjEea_msgb2Rh3jw" target="_4unVIJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_42_OA5njEea_msgb2Rh3jw" visible="false" type="6001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_42_OBJnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_42_OBZnjEea_msgb2Rh3jw" type="6002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_42_OBpnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_42_OB5njEea_msgb2Rh3jw" visible="false" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_42_OCJnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_42_OCZnjEea_msgb2Rh3jw" visible="false" type="6005">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_42_OCpnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_42_OC5njEea_msgb2Rh3jw" type="6033">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_42_ODJnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_42_ODZnjEea_msgb2Rh3jw" type="6034">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_42_ODpnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_42_OAZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Association" href="hospital.uml#_4U-tIJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_42_OApnjEea_msgb2Rh3jw" points="[0, 0, 0, -266]$[0, 266, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5gmLsJnjEea_msgb2Rh3jw" id="(0.5, 1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5gmLsZnjEea_msgb2Rh3jw" id="(0.5555555820465088, 0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_43gLYJnjEea_msgb2Rh3jw" type="4001" source="_4wx4UJnjEea_msgb2Rh3jw" target="_4yDqsJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_43gLY5njEea_msgb2Rh3jw" visible="false" type="6001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_43gLZJnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_43gLZZnjEea_msgb2Rh3jw" type="6002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_43gLZpnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_43gLZ5njEea_msgb2Rh3jw" visible="false" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_43gLaJnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_43gLaZnjEea_msgb2Rh3jw" visible="false" type="6005">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_43gLapnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_43gLa5njEea_msgb2Rh3jw" type="6033">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_43gLbJnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_43gLbZnjEea_msgb2Rh3jw" type="6034">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_43gLbpnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_43gLYZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Association" href="hospital.uml#_4TVuYJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_43gLYpnjEea_msgb2Rh3jw" points="[0, 0, 260, 0]$[-260, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5eddsZnjEea_msgb2Rh3jw" id="(0.0, 0.3636363744735718)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5eddspnjEea_msgb2Rh3jw" id="(1.0, 0.4000000059604645)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_44CW4JnjEea_msgb2Rh3jw" type="4001" source="_4sxiEJnjEea_msgb2Rh3jw" target="_4uDUcJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_44CW45njEea_msgb2Rh3jw" visible="false" type="6001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_44CW5JnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_44CW5ZnjEea_msgb2Rh3jw" type="6002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_44C98JnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_44C98ZnjEea_msgb2Rh3jw" visible="false" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_44C98pnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_44C985njEea_msgb2Rh3jw" visible="false" type="6005">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_44C99JnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_44C99ZnjEea_msgb2Rh3jw" type="6033">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_44C99pnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_44C995njEea_msgb2Rh3jw" type="6034">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_44C9-JnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_44CW4ZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Association" href="hospital.uml#_4RkMwJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_44CW4pnjEea_msgb2Rh3jw" points="[0, 0, -280, 0]$[280, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5ciLEJnjEea_msgb2Rh3jw" id="(1.0, 0.8181818127632141)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5ciyIJnjEea_msgb2Rh3jw" id="(0.0, 0.8999999761581421)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_44qB8JnjEea_msgb2Rh3jw" type="4001" source="_4sxiEJnjEea_msgb2Rh3jw" target="_4siRgJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_44qpAJnjEea_msgb2Rh3jw" visible="false" type="6001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_44qpAZnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_44qpApnjEea_msgb2Rh3jw" type="6002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_44qpA5njEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_44qpBJnjEea_msgb2Rh3jw" visible="false" type="6003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_44qpBZnjEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_44qpBpnjEea_msgb2Rh3jw" visible="false" type="6005">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_44qpB5njEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_44qpCJnjEea_msgb2Rh3jw" type="6033">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_44qpCZnjEea_msgb2Rh3jw" y="20"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_44qpCpnjEea_msgb2Rh3jw" type="6034">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_44qpC5njEea_msgb2Rh3jw" y="-20"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_44qB8ZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Association" href="hospital.uml#_4SZTMJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_44qB8pnjEea_msgb2Rh3jw" points="[0, 0, 280, -322]$[0, 322, 280, 0]$[-280, 322, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5fexYJnjEea_msgb2Rh3jw" id="(0.1111111119389534, 1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5fexYZnjEea_msgb2Rh3jw" id="(1.0, 0.1111111119389534)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_45zRcJnjEea_msgb2Rh3jw" type="4002" source="_4tkMQJnjEea_msgb2Rh3jw" target="_4sSZ4JnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_45z4gJnjEea_msgb2Rh3jw" visible="false" type="6007">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_45z4gZnjEea_msgb2Rh3jw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_45zRcZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Generalization" href="hospital.uml#_4SmukZnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_45zRcpnjEea_msgb2Rh3jw" points="[0, 0, 0, 322]$[0, -322, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5dYfoJnjEea_msgb2Rh3jw" id="(0.30000001192092896, 0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5dYfoZnjEea_msgb2Rh3jw" id="(0.25, 1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_46WEAJnjEea_msgb2Rh3jw" type="4002" source="_4tGSMJnjEea_msgb2Rh3jw" target="_4sSZ4JnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_46WrEJnjEea_msgb2Rh3jw" visible="false" type="6007">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_46WrEZnjEea_msgb2Rh3jw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_46WEAZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Generalization" href="hospital.uml#_4VcAJJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_46WEApnjEea_msgb2Rh3jw" points="[0, 0, 280, 336]$[0, -336, 280, 0]$[-280, -336, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5d6EE5njEea_msgb2Rh3jw" id="(0.10000000149011612, 0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5d6EFJnjEea_msgb2Rh3jw" id="(1.0, 0.8999999761581421)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_4642kJnjEea_msgb2Rh3jw" type="4002" source="_4vrFEJnjEea_msgb2Rh3jw" target="_4unVIJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_465doJnjEea_msgb2Rh3jw" visible="false" type="6007">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_465doZnjEea_msgb2Rh3jw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_4642kZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Generalization" href="hospital.uml#_4TDagJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_4642kpnjEea_msgb2Rh3jw" points="[0, 0, 720, 252]$[-720, 0, 0, 252]$[-720, -252, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5e-bEJnjEea_msgb2Rh3jw" id="(0.0, 0.06666667014360428)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5e-bEZnjEea_msgb2Rh3jw" id="(0.8888888955116272, 1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_47WwoJnjEea_msgb2Rh3jw" type="4002" source="_4xZjYJnjEea_msgb2Rh3jw" target="_4unVIJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_47XXsJnjEea_msgb2Rh3jw" visible="false" type="6007">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_47XXsZnjEea_msgb2Rh3jw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_47WwoZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Generalization" href="hospital.uml#_4TOZo5njEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_47WwopnjEea_msgb2Rh3jw" points="[0, 0, 0, 714]$[0, -714, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5gEnQJnjEea_msgb2Rh3jw" id="(0.10000000149011612, 0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5gEnQZnjEea_msgb2Rh3jw" id="(0.1111111119389534, 1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_473uAJnjEea_msgb2Rh3jw" type="4002" source="_4vGdUJnjEea_msgb2Rh3jw" target="_4sSZ4JnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_473uA5njEea_msgb2Rh3jw" visible="false" type="6007">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_473uBJnjEea_msgb2Rh3jw" y="40"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_473uAZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Generalization" href="hospital.uml#_4RWKUJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_473uApnjEea_msgb2Rh3jw" points="[0, 0, -280, 336]$[0, -336, -280, 0]$[280, -336, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5c-3ApnjEea_msgb2Rh3jw" id="(0.8999999761581421, 0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_5c-3A5njEea_msgb2Rh3jw" id="(0.0, 0.800000011920929)"/>
+    </edges>
+  </notation:Diagram>
+  <notation:Diagram xmi:id="_4ogtIJnjEea_msgb2Rh3jw" type="PapyrusUMLStateMachineDiagram" name="diagram.Diagram_State" measurementUnit="Pixel">
+    <children xmi:type="notation:Shape" xmi:id="_5vpUUJnjEea_msgb2Rh3jw" type="2000">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5vpUUpnjEea_msgb2Rh3jw" type="2001">
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5v7BIJnjEea_msgb2Rh3jw" width="830" height="13"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5vp7YJnjEea_msgb2Rh3jw" type="2002">
+        <children xmi:type="notation:Shape" xmi:id="_5v1hkJnjEea_msgb2Rh3jw" type="3000">
+          <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_5v1hlJnjEea_msgb2Rh3jw" source="RegionAnnotationKey">
+            <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_5v1hlZnjEea_msgb2Rh3jw" key="RegionZoneKey" value=""/>
+          </eAnnotations>
+          <children xmi:type="notation:DecorationNode" xmi:id="_5v1hkpnjEea_msgb2Rh3jw" type="3002">
+            <children xmi:type="notation:Shape" xmi:id="_5wBHwJnjEea_msgb2Rh3jw" type="11000">
+              <children xmi:type="notation:DecorationNode" xmi:id="_5wBHwpnjEea_msgb2Rh3jw" type="11001">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5wBHw5njEea_msgb2Rh3jw" x="50" y="3"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5wBHxJnjEea_msgb2Rh3jw" type="11002">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5wBu0JnjEea_msgb2Rh3jw" x="25" y="-10"/>
+              </children>
+              <element xmi:type="uml:Pseudostate" href="hospital.uml#_4UXCEZnjEea_msgb2Rh3jw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5wBHwZnjEea_msgb2Rh3jw" x="299" y="590" width="63" height="21"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_5wMt8JnjEea_msgb2Rh3jw" type="11000">
+              <children xmi:type="notation:DecorationNode" xmi:id="_5wMt8pnjEea_msgb2Rh3jw" type="11001">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5wMt85njEea_msgb2Rh3jw" x="50" y="3"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5wMt9JnjEea_msgb2Rh3jw" type="11002">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5wMt9ZnjEea_msgb2Rh3jw" x="25" y="-10"/>
+              </children>
+              <element xmi:type="uml:Pseudostate" href="hospital.uml#_4UXCEJnjEea_msgb2Rh3jw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5wMt8ZnjEea_msgb2Rh3jw" x="299" y="398" width="63" height="21"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_5wUpwJnjEea_msgb2Rh3jw" type="11000">
+              <children xmi:type="notation:DecorationNode" xmi:id="_5wUpwpnjEea_msgb2Rh3jw" type="11001">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5wUpw5njEea_msgb2Rh3jw" x="50" y="3"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5wUpxJnjEea_msgb2Rh3jw" type="11002">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5wVQ0JnjEea_msgb2Rh3jw" x="25" y="-10"/>
+              </children>
+              <element xmi:type="uml:Pseudostate" href="hospital.uml#_4UXCEpnjEea_msgb2Rh3jw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5wUpwZnjEea_msgb2Rh3jw" x="29" y="590" width="63" height="21"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_5wb-gJnjEea_msgb2Rh3jw" type="11000">
+              <children xmi:type="notation:DecorationNode" xmi:id="_5wb-gpnjEea_msgb2Rh3jw" type="11001">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5wclkJnjEea_msgb2Rh3jw" x="50" y="3"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5wclkZnjEea_msgb2Rh3jw" type="11002">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5wclkpnjEea_msgb2Rh3jw" x="25" y="-10"/>
+              </children>
+              <element xmi:type="uml:Pseudostate" href="hospital.uml#_4UWbApnjEea_msgb2Rh3jw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5wb-gZnjEea_msgb2Rh3jw" x="299" y="206" width="63" height="21"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_5wkhYJnjEea_msgb2Rh3jw" type="8000">
+              <children xmi:type="notation:DecorationNode" xmi:id="_5wkhYpnjEea_msgb2Rh3jw" type="8001">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5wkhY5njEea_msgb2Rh3jw" x="25" y="3"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5wkhZJnjEea_msgb2Rh3jw" type="8002">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5wkhZZnjEea_msgb2Rh3jw" x="25" y="-10"/>
+              </children>
+              <element xmi:type="uml:Pseudostate" href="hospital.uml#_4UWbAJnjEea_msgb2Rh3jw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5wkhYZnjEea_msgb2Rh3jw" x="326" y="20" width="20" height="20"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_5w2OMJnjEea_msgb2Rh3jw" type="6000">
+              <children xmi:type="notation:DecorationNode" xmi:id="_5w2OMpnjEea_msgb2Rh3jw" type="6001">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5w-xEJnjEea_msgb2Rh3jw" width="99" height="20"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5w2OM5njEea_msgb2Rh3jw" type="19003">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5w2ONJnjEea_msgb2Rh3jw" x="40"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5w2ONZnjEea_msgb2Rh3jw" type="6002">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5w2ONpnjEea_msgb2Rh3jw" y="20" width="99" height="25"/>
+              </children>
+              <element xmi:type="uml:State" href="hospital.uml#_4UXpIpnjEea_msgb2Rh3jw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5w2OMZnjEea_msgb2Rh3jw" x="281" y="482" width="99" height="45"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_5xAmQJnjEea_msgb2Rh3jw" type="6000">
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xAmQpnjEea_msgb2Rh3jw" type="6001">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xKXQJnjEea_msgb2Rh3jw" width="81" height="20"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xAmQ5njEea_msgb2Rh3jw" type="19003">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5xAmRJnjEea_msgb2Rh3jw" x="40"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xAmRZnjEea_msgb2Rh3jw" type="6002">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xAmRpnjEea_msgb2Rh3jw" y="20" width="81" height="25"/>
+              </children>
+              <element xmi:type="uml:State" href="hospital.uml#_4UXpJJnjEea_msgb2Rh3jw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xAmQZnjEea_msgb2Rh3jw" x="290" y="674" width="81" height="45"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_5xMMcJnjEea_msgb2Rh3jw" type="6000">
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xMMcpnjEea_msgb2Rh3jw" type="6001">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xV9cJnjEea_msgb2Rh3jw" width="90" height="20"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xMMc5njEea_msgb2Rh3jw" type="19003">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5xMMdJnjEea_msgb2Rh3jw" x="40"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xMMdZnjEea_msgb2Rh3jw" type="6002">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xMMdpnjEea_msgb2Rh3jw" y="20" width="90" height="25"/>
+              </children>
+              <element xmi:type="uml:State" href="hospital.uml#_4UXpJZnjEea_msgb2Rh3jw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xMMcZnjEea_msgb2Rh3jw" x="560" y="578" width="90" height="45"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_5xXyoJnjEea_msgb2Rh3jw" type="6000">
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xXyopnjEea_msgb2Rh3jw" type="6001">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xhjoJnjEea_msgb2Rh3jw" width="126" height="20"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xXyo5njEea_msgb2Rh3jw" type="19003">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5xXypJnjEea_msgb2Rh3jw" x="40"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xXypZnjEea_msgb2Rh3jw" type="6002">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xXyppnjEea_msgb2Rh3jw" y="20" width="126" height="25"/>
+              </children>
+              <element xmi:type="uml:State" href="hospital.uml#_4UXCE5njEea_msgb2Rh3jw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xXyoZnjEea_msgb2Rh3jw" x="272" y="290" width="126" height="45"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_5xjY0JnjEea_msgb2Rh3jw" type="6000">
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xjY0pnjEea_msgb2Rh3jw" type="6001">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xtw4JnjEea_msgb2Rh3jw" width="90" height="20"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xjY05njEea_msgb2Rh3jw" type="19003">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5xjY1JnjEea_msgb2Rh3jw" x="40"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xjY1ZnjEea_msgb2Rh3jw" type="6002">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xjY1pnjEea_msgb2Rh3jw" y="20" width="90" height="25"/>
+              </children>
+              <element xmi:type="uml:State" href="hospital.uml#_4UXpIZnjEea_msgb2Rh3jw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xjY0ZnjEea_msgb2Rh3jw" x="20" y="482" width="90" height="45"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_5xwNIJnjEea_msgb2Rh3jw" type="6000">
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xwNIpnjEea_msgb2Rh3jw" type="6001">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5x5-IJnjEea_msgb2Rh3jw" width="90" height="20"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xwNI5njEea_msgb2Rh3jw" type="19003">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5xwNJJnjEea_msgb2Rh3jw" x="40"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5xwNJZnjEea_msgb2Rh3jw" type="6002">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xwNJpnjEea_msgb2Rh3jw" y="20" width="90" height="25"/>
+              </children>
+              <element xmi:type="uml:State" href="hospital.uml#_4UXpIJnjEea_msgb2Rh3jw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5xwNIZnjEea_msgb2Rh3jw" x="560" y="194" width="90" height="45"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_5x7zUJnjEea_msgb2Rh3jw" type="6000">
+              <children xmi:type="notation:DecorationNode" xmi:id="_5x7zUpnjEea_msgb2Rh3jw" type="6001">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5yE9QJnjEea_msgb2Rh3jw" width="63" height="20"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5x7zU5njEea_msgb2Rh3jw" type="19003">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5x7zVJnjEea_msgb2Rh3jw" x="40"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5x7zVZnjEea_msgb2Rh3jw" type="6002">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5x7zVpnjEea_msgb2Rh3jw" y="20" width="63" height="25"/>
+              </children>
+              <element xmi:type="uml:State" href="hospital.uml#_4UXpI5njEea_msgb2Rh3jw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5x7zUZnjEea_msgb2Rh3jw" x="569" y="482" width="63" height="45"/>
+            </children>
+            <children xmi:type="notation:Shape" xmi:id="_5yGycJnjEea_msgb2Rh3jw" type="6000">
+              <children xmi:type="notation:DecorationNode" xmi:id="_5yGycpnjEea_msgb2Rh3jw" type="6001">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5yRKgJnjEea_msgb2Rh3jw" width="99" height="20"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5yGyc5njEea_msgb2Rh3jw" type="19003">
+                <layoutConstraint xmi:type="notation:Location" xmi:id="_5yGydJnjEea_msgb2Rh3jw" x="40"/>
+              </children>
+              <children xmi:type="notation:DecorationNode" xmi:id="_5yHZgJnjEea_msgb2Rh3jw" type="6002">
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5yHZgZnjEea_msgb2Rh3jw" y="20" width="99" height="25"/>
+              </children>
+              <element xmi:type="uml:State" href="hospital.uml#_4UWbAZnjEea_msgb2Rh3jw"/>
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5yGycZnjEea_msgb2Rh3jw" x="281" y="98" width="99" height="45"/>
+            </children>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5v1hk5njEea_msgb2Rh3jw"/>
+          </children>
+          <element xmi:type="uml:Region" href="hospital.uml#_4UVz8JnjEea_msgb2Rh3jw"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5v1hkZnjEea_msgb2Rh3jw" width="830" height="786"/>
+        </children>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5vp7YZnjEea_msgb2Rh3jw" y="13" width="830" height="786"/>
+      </children>
+      <element xmi:type="uml:StateMachine" href="hospital.uml#_4UVM4JnjEea_msgb2Rh3jw"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_5vpUUZnjEea_msgb2Rh3jw" width="830" height="799"/>
+    </children>
+    <styles xmi:type="notation:StringValueStyle" xmi:id="_4ogtLZnjEea_msgb2Rh3jw" name="diagram_compatibility_version" stringValue="1.1.0"/>
+    <styles xmi:type="notation:DiagramStyle" xmi:id="_4ogtLpnjEea_msgb2Rh3jw"/>
+    <styles xmi:type="style:PapyrusViewStyle" xmi:id="_4ogtL5njEea_msgb2Rh3jw">
+      <owner xmi:type="uml:StateMachine" href="hospital.uml#_4UVM4JnjEea_msgb2Rh3jw"/>
+    </styles>
+    <element xmi:type="uml:StateMachine" href="hospital.uml#_4UVM4JnjEea_msgb2Rh3jw"/>
+    <edges xmi:type="notation:Connector" xmi:id="_5yVb8JnjEea_msgb2Rh3jw" type="7000" source="_5xwNIJnjEea_msgb2Rh3jw" target="_5yGycJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5yWDApnjEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5yWDA5njEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5yWDBJnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5yWDBZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5yWDBpnjEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5yWDB5njEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_5yWDAJnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4UbTgJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5yWDAZnjEea_msgb2Rh3jw" points="[0, 0, 189, 54]$[0, -54, 189, 0]$[-189, -54, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52UkEJnjEea_msgb2Rh3jw" id="(0.10000000149011612, 0.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52UkEZnjEea_msgb2Rh3jw" id="(1.0, 0.9333333373069763)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_5yhCIJnjEea_msgb2Rh3jw" type="7000" source="_5wMt8JnjEea_msgb2Rh3jw" target="_5x7zUJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5yhCI5njEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5yhCJJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5yhCJZnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5yhCJpnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5yhCJ5njEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5yhCKJnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_5yhCIZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4UchoJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5yhCIpnjEea_msgb2Rh3jw" points="[0, 0, -216, -66]$[216, 0, 0, -66]$[216, 66, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52SH0JnjEea_msgb2Rh3jw" id="(1.0, 0.8571428656578064)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52SH0ZnjEea_msgb2Rh3jw" id="(0.1428571492433548, 0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_5yoW4JnjEea_msgb2Rh3jw" type="7000" source="_5wBHwJnjEea_msgb2Rh3jw" target="_5x7zUJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5yo98JnjEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5yo98ZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5yo98pnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5yo985njEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5yo99JnjEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5yo99ZnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_5yoW4ZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4UeW0JnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5yoW4pnjEea_msgb2Rh3jw" points="[0, 0, -207, 72]$[117, 0, -90, 72]$[117, -72, -90, 0]$[207, -72, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52TV8JnjEea_msgb2Rh3jw" id="(1.0, 0.1428571492433548)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52TV8ZnjEea_msgb2Rh3jw" id="(0.0, 0.8666666746139526)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_5yxg0JnjEea_msgb2Rh3jw" type="7000" source="_5w2OMJnjEea_msgb2Rh3jw" target="_5wBHwJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5yxg05njEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5yxg1JnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5yxg1ZnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5yxg1pnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5yxg15njEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5yxg2JnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_5yxg0ZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4UdIs5njEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5yxg0pnjEea_msgb2Rh3jw" points="[0, 0, 0, -63]$[0, 63, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52VyMJnjEea_msgb2Rh3jw" id="(0.3636363744735718, 1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52VyMZnjEea_msgb2Rh3jw" id="(0.2857142984867096, 0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_5y5coJnjEea_msgb2Rh3jw" type="7000" source="_5wb-gJnjEea_msgb2Rh3jw" target="_5xXyoJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5y5co5njEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5y5cpJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5y5cpZnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5y5cppnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5y5cp5njEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5y5cqJnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_5y5coZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4UaFYZnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5y5copnjEea_msgb2Rh3jw" points="[0, 0, 0, -63]$[0, 63, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52YOcJnjEea_msgb2Rh3jw" id="(0.7142857313156128, 1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52YOcZnjEea_msgb2Rh3jw" id="(0.5714285969734192, 0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_5zAxYJnjEea_msgb2Rh3jw" type="7000" source="_5wUpwJnjEea_msgb2Rh3jw" target="_5w2OMJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zAxY5njEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zAxZJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zAxZZnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zAxZpnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zAxZ5njEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zAxaJnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_5zAxYZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4Ufk8JnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5zAxYpnjEea_msgb2Rh3jw" points="[0, 0, -198, 66]$[198, 0, 0, 66]$[198, -66, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52WZQJnjEea_msgb2Rh3jw" id="(1.0, 0.1428571492433548)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52WZQZnjEea_msgb2Rh3jw" id="(0.09090909361839294, 1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_5zJUQJnjEea_msgb2Rh3jw" type="7000" source="_5wkhYJnjEea_msgb2Rh3jw" target="_5yGycJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zJUQ5njEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zJURJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zJURZnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zJURpnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zJUR5njEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zJUSJnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_5zJUQZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4UY3QJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5zJUQpnjEea_msgb2Rh3jw" points="[0, 0, 0, -72]$[0, 72, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52VyMpnjEea_msgb2Rh3jw" id="(0.44999998807907104, 0.30000001192092896)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52VyM5njEea_msgb2Rh3jw" id="(0.5454545617103577, 0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_5zRQEJnjEea_msgb2Rh3jw" type="7000" source="_5xMMcJnjEea_msgb2Rh3jw" target="_5w2OMJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zRQE5njEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zRQFJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zRQFZnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zRQFpnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zRQF5njEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zRQGJnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_5zRQEZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4UdIsZnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5zRQEpnjEea_msgb2Rh3jw" points="[0, 0, 189, 54]$[-189, 0, 0, 54]$[-189, -54, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52Su4JnjEea_msgb2Rh3jw" id="(0.0, 0.06666667014360428)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52Su4ZnjEea_msgb2Rh3jw" id="(0.9090909361839294, 1.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_5zZy8JnjEea_msgb2Rh3jw" type="7000" source="_5xXyoJnjEea_msgb2Rh3jw" target="_5wMt8JnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zZy85njEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zZy9JnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zZy9ZnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zZy9pnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zZy95njEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zZy-JnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_5zZy8ZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4UbTgpnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5zZy8pnjEea_msgb2Rh3jw" points="[0, 0, 0, -63]$[0, 63, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52XnYJnjEea_msgb2Rh3jw" id="(0.5, 1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52XnYZnjEea_msgb2Rh3jw" id="(0.5714285969734192, 0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_5zhuwJnjEea_msgb2Rh3jw" type="7000" source="_5wBHwJnjEea_msgb2Rh3jw" target="_5xAmQJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zhuw5njEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zhuxJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zhuxZnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zhuxpnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zhux5njEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zhuyJnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_5zhuwZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4UdvwZnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5zhuwpnjEea_msgb2Rh3jw" points="[0, 0, 0, -63]$[0, 63, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52Y1gpnjEea_msgb2Rh3jw" id="(0.4285714328289032, 1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52Y1g5njEea_msgb2Rh3jw" id="(0.4444444477558136, 0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_5zqRoJnjEea_msgb2Rh3jw" type="7000" source="_5yGycJnjEea_msgb2Rh3jw" target="_5wb-gJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zq4sJnjEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zq4sZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zq4spnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zq4s5njEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zq4tJnjEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zq4tZnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_5zqRoZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4UZeUJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5zqRopnjEea_msgb2Rh3jw" points="[0, 0, 0, -63]$[0, 63, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52Y1gJnjEea_msgb2Rh3jw" id="(0.5454545617103577, 1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52Y1gZnjEea_msgb2Rh3jw" id="(0.5714285969734192, 0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_5zzbkJnjEea_msgb2Rh3jw" type="7000" source="_5wMt8JnjEea_msgb2Rh3jw" target="_5xjY0JnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zzbk5njEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zzblJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zzblZnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zzblpnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5zzbl5njEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5zzbmJnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_5zzbkZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4Ub6kZnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5zzbkpnjEea_msgb2Rh3jw" points="[0, 0, 198, -66]$[-198, 0, 0, -66]$[-198, 66, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52ZckJnjEea_msgb2Rh3jw" id="(0.0, 0.8571428656578064)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52ZckZnjEea_msgb2Rh3jw" id="(0.8999999761581421, 0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_5z7XYJnjEea_msgb2Rh3jw" type="7000" source="_5wb-gJnjEea_msgb2Rh3jw" target="_5xwNIJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_5z7-cJnjEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5z7-cZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5z7-cpnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5z7-c5njEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_5z7-dJnjEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_5z7-dZnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_5z7XYZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4UascJnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_5z7XYpnjEea_msgb2Rh3jw" points="[0, 0, -198, 0]$[198, 0, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52VLIJnjEea_msgb2Rh3jw" id="(1.0, 0.5714285969734192)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52VLIZnjEea_msgb2Rh3jw" id="(0.0, 0.5333333611488342)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_50DTMJnjEea_msgb2Rh3jw" type="7000" source="_5wUpwJnjEea_msgb2Rh3jw" target="_5xAmQJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_50DTM5njEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_50DTNJnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_50DTNZnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_50DTNpnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_50DTN5njEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_50DTOJnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_50DTMZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4Ue94pnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_50DTMpnjEea_msgb2Rh3jw" points="[0, 0, -207, -66]$[0, 66, -207, 0]$[207, 66, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52aDoJnjEea_msgb2Rh3jw" id="(0.8571428656578064, 1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52aDoZnjEea_msgb2Rh3jw" id="(0.0, 0.06666667014360428)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_50LPAJnjEea_msgb2Rh3jw" type="7000" source="_5xjY0JnjEea_msgb2Rh3jw" target="_5wUpwJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_50L2EJnjEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_50L2EZnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_50L2EpnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_50L2E5njEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_50L2FJnjEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_50L2FZnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_50LPAZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4Ue94JnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_50LPApnjEea_msgb2Rh3jw" points="[0, 0, 0, -63]$[0, 63, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52T9AJnjEea_msgb2Rh3jw" id="(0.20000000298023224, 1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52T9AZnjEea_msgb2Rh3jw" id="(0.1428571492433548, 0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_50Tx4JnjEea_msgb2Rh3jw" type="7000" source="_5wMt8JnjEea_msgb2Rh3jw" target="_5w2OMJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_50Tx45njEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_50Tx5JnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_50Tx5ZnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_50Tx5pnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_50Tx55njEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_50Tx6JnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_50Tx4ZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4Ub6kpnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_50Tx4pnjEea_msgb2Rh3jw" points="[0, 0, 0, -63]$[0, 63, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52XnYpnjEea_msgb2Rh3jw" id="(0.5714285969734192, 1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52XnY5njEea_msgb2Rh3jw" id="(0.5454545617103577, 0.0)"/>
+    </edges>
+    <edges xmi:type="notation:Connector" xmi:id="_50di4JnjEea_msgb2Rh3jw" type="7000" source="_5x7zUJnjEea_msgb2Rh3jw" target="_5xMMcJnjEea_msgb2Rh3jw">
+      <children xmi:type="notation:DecorationNode" xmi:id="_50di45njEea_msgb2Rh3jw" visible="false" type="7001">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_50di5JnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_50di5ZnjEea_msgb2Rh3jw" visible="false" type="7002">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_50di5pnjEea_msgb2Rh3jw"/>
+      </children>
+      <children xmi:type="notation:DecorationNode" xmi:id="_50di55njEea_msgb2Rh3jw" visible="false" type="7003">
+        <layoutConstraint xmi:type="notation:Location" xmi:id="_50di6JnjEea_msgb2Rh3jw" y="60"/>
+      </children>
+      <styles xmi:type="notation:FontStyle" xmi:id="_50di4ZnjEea_msgb2Rh3jw"/>
+      <element xmi:type="uml:Transition" href="hospital.uml#_4UchoZnjEea_msgb2Rh3jw"/>
+      <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_50di4pnjEea_msgb2Rh3jw" points="[0, 0, 0, -51]$[0, 51, 0, 0]"/>
+      <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52XAUJnjEea_msgb2Rh3jw" id="(0.1428571492433548, 1.0)"/>
+      <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_52XAUZnjEea_msgb2Rh3jw" id="(0.20000000298023224, 0.0)"/>
+    </edges>
+  </notation:Diagram>
+</xmi:XMI>
